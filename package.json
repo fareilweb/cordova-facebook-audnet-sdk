@@ -3,6 +3,7 @@
     "name": "Luca Cilfone",
     "email": "info@fareilweb.com"
   },
+  "private": true,
   "bugs": {
     "url": "https://github.com/fareilweb/cordova-facebook-audnet-sdk/issues"
   },
