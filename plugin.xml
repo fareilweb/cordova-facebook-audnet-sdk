@@ -48,7 +48,7 @@
     <framework src="FBAudienceNetwork" type="podspec" spec="~> 5.1.0"/>
 
     <!-- FBAudienceNetwork in cocapods is not up to date, so we still download the SDK -->
-    <!-- framework src="FBAudienceNetwork.framework" custom="true" /-->
+    <framework src="FBAudienceNetwork.framework" custom="true" />
 
     <header-file src="src/ios/KVOController.h" />
     <header-file src="src/ios/FBKVOController.h" />
